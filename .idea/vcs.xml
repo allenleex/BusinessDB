@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/examples/bootstrap-flask" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/examples/flask-black-dashboard" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Gerapy" vcs="Git" />
   </component>
 </project>

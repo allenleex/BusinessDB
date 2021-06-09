@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/BusinessDB.iml" filepath="$PROJECT_DIR$/.idea/BusinessDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Gerapy/.idea/Gerapy.iml" filepath="$PROJECT_DIR$/../Gerapy/.idea/Gerapy.iml" />
     </modules>
   </component>
 </project>
